@@ -1,6 +1,6 @@
 Find the live site at [LinkedIn Clone](https://linkedin-clone-3caf9.web.app/).
 
-# App Desc.
+# App Desc
  * Simple linkedIn Clone with Auth Flow
  * Allows user to add posts  
 

@@ -9,8 +9,7 @@ Find the live site at [LinkedIn Clone](https://linkedin-clone-3caf9.web.app/).
  * Learn't Intergrating Firebase Auth & Firestore integration with React
  * Redux Black-boxed implementation
 
-Thanks to [PapaReact](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) for this build.
-https://www.youtube.com/watch?v=tbvguOj8C-o&list=PPSV
+Thanks to [PapaReact](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA) for this [build](https://www.youtube.com/watch?v=tbvguOj8C-o&list=PPSV).
 
 
 
